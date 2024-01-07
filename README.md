@@ -9,5 +9,5 @@
 - TanStack Query (FKA React Query) is often described as the missing data-fetching library for web applications
 - - https://tanstack.com/query/latest/docs/react/guides/migrating-to-v5#supports-a-single-signature-one-object
 
-- using 'initialData', static data given to use from nextjs, can be fed into put query
+- using 'initialData', static data given to use from nextjs, can be fed into use query
 - - allows us to start with static data but still have a dynamic page for fetching new data and adding new data
